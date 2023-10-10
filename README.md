@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Fernando Souza
 
 - 🔭 Hoje trabalho com desenvolvimento mobile
-- 🌱 Estudando Swift
 - 📫 Contate-me no email: fernandosouza562@gmail.com
 
 <div>
